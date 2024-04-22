@@ -4,3 +4,16 @@
     box-sizing: border-box;
     font-family: "Fredoka", sans-serif;
 }    
+
+#container{
+    margin: auto;
+    margin-top: 20px;
+    width: 800px;
+    text-align: center;
+}
+
+h1{
+    color: #e53170;
+    text-transform: capitalize;
+    margin-bottom: 40px;
+}
